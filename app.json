@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Hamzeh Azizzadeh",
+    "slug": "hamzeh_azizzadeh",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/image/avatar.jpg",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/image/avatar.jpg",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.hamzehazizzadeh.hamzeh_azizzadeh"
+    },
+    "web": {
+      "favicon": "./app/assets/image/avatar.jpg"
+    }
+  }
+}
